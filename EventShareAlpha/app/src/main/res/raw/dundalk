@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<places>
+    <place>
+        <name>Dkit</name>
+        <icon>dkit</icon>
+        <time>day</time>
+        <lat>53.983754</lat>
+        <lon>-6.392441</lon>
+        <radius>1000</radius>
+    </place>
+    <place>
+        <name>The Marshes</name>
+        <icon>marshes</icon>
+        <time>day</time>
+        <lat>54.001036</lat>
+        <lon> -6.398833</lon>
+        <radius>100</radius>
+    </place>
+    <place>
+        <name>The Square</name>
+        <icon>square</icon>
+        <time>day</time>
+        <lat>54.004403</lat>
+        <lon>-6.402800</lon>
+        <radius>30</radius>
+    </place>
+    <place>
+        <name>Ridleys</name>
+        <icon>ridleys</icon>
+        <time>night</time>
+        <lat>54.002807</lat>
+        <lon>-6.402471</lon>
+        <radius>20</radius>
+    </place>
+    <place>
+        <name>Silence</name>
+        <icon>silence</icon>
+        <time>night</time>
+        <lat>54.002973</lat>
+        <lon>-6.401619</lon>
+        <radius>20</radius>
+    </place>
+    <place>
+        <name>Brubakers</name>
+        <icon>brubakers</icon>
+        <time>night</time>
+        <lat>54.001883</lat>
+        <lon>-6.404814</lon>
+        <radius>20</radius>
+    </place>
+
+</places>
